@@ -60,7 +60,7 @@ function updateFilters() {
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    for (filt in filters) {
+    for (let filt in filters) {
       filteredData = filteredData.filter(row => row[filt] === filters[filt]);
      };
   
