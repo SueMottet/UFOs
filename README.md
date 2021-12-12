@@ -9,7 +9,7 @@ Using JavaScript and HTML, this analysis creates a dynamic web page to use for r
 #### Software: JavaScript (ES6+), Bootstrap
 
 ## Results
- The web page provides the ability to search the UFO siting dataset of 2010 sitings by proving the ability to filter and refilter the data by city, state, country, and shape. The data is filterable by any combination of these parameters. The filtered search results are presented in a table grid on the web page. If you clear out a column, a user will need to click enter (keyboard) to get the table grid to refresh again removing the cleared filter data.
+ The web page provides the ability to search the UFO sitings dataset of 2010 sitings by proving the ability to filter and refilter the data by city, state, country, and shape. The data is filterable by any combination of these parameters. The filtered search results are presented in a table grid on the web page. If you clear out a column, a user will need to click enter (keyboard) to get the table grid to refresh again removing the cleared filter data.
 
  Here is a snapshot of the web page showing the overall web page setup:
 
