@@ -13,14 +13,14 @@ Using JavaScript and HTML, this analysis creates a dynamic web page to use for r
 
  Here is a snapshot of the web page showing the overall web page setup:
 
-  ![full page image](/Resources/fullPage.png)
+  ![full page image](/resources/fullPage.png)
  
 ### Single-select filtering:
 A user can filter just by one of the options. 
 
 For example Date:
 
- ![date image](/Resources/Date.png)
+ ![date image](/resources/Date.png)
 
 ### Multi-select filtering
 A user can also filter by combinations of the filter options.
@@ -31,7 +31,7 @@ For example Date and City:
 
  Or Date, City and Shape:
 
- ![date image](/Resources/dateCityShap.png)
+ ![date image](/resources/dateCityShap.png)
 
 ## Summary
 The UFO sitings web page works well with the provided data. This dataset is however static and will require refreshing to stay current. The web page would be more useful over all if it provided a way for a user to refresh the page and get more/new data.
