@@ -37,4 +37,4 @@ For example Date and City:
 The UFO sitings web page works well with the provided data. This dataset is however static and will require refreshing to stay current. The web page would be more useful over all if it provided a way for a user to refresh the page and get more/new data.
 
 ## References:
-JavaScript - Double Equals vs. Triple Equaps: https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a
+JavaScript - Double Equals vs. Triple Equals: https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a
