@@ -27,11 +27,11 @@ A user can also filter by combinations of the filter options.
 
 For example Date and City:
 
- ![date image](/Resources/dateCity.png)
+ ![date city image](/Resources/dateCity.png)
 
  Or Date, City and Shape:
 
- ![date image](/resources/dateCityShap.png)
+ ![date city shape image](/resources/dateCityShape.png)
 
 ## Summary
 The UFO sitings web page works well with the provided data. This dataset is however static and will require refreshing to stay current. The web page would be more useful over all if it provided a way for a user to refresh the page and get more/new data.
