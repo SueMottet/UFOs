@@ -25,11 +25,7 @@ For example Date:
 ### Multi-select filtering
 A user can also filter by combinations of the filter options.
 
-For example Date and City:
-
- ![date city image](/resources/dateCity.png)
-
- Or Date, City and Shape:
+For example Date, City, and Shape:
 
  ![date city shape image](/resources/dateCityShape.png)
 
