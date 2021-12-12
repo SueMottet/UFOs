@@ -2,7 +2,7 @@
 ## Overview
 Using JavaScript and HTML, this analysis creates a dynamic web page to use for researching UFO sitings.
 
-### Aanlyis details:
+### Analyis details:
 1. A grid of UFO sitings data is presented via Bootstrap components.
 2. JavaScript functions are written to create list elements for filtering the data, capturing text entered on change of entry points, and refreshing the grid on the web page filtering based on the filter criteria.
 
